@@ -1,12 +1,3 @@
-D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\obj\Debug\net8.0\EnterpriseApi.Api.csproj.AssemblyReference.cache
-D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
-D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\obj\Debug\net8.0\EnterpriseApi.Api.GeneratedMSBuildEditorConfig.editorconfig
-D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\obj\Debug\net8.0\EnterpriseApi.Api.AssemblyInfoInputs.cache
-D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\obj\Debug\net8.0\EnterpriseApi.Api.AssemblyInfo.cs
-D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\obj\Debug\net8.0\EnterpriseApi.Api.csproj.CoreCompileInputs.cache
-D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\obj\Debug\net8.0\EnterpriseApi.Api.MvcApplicationPartsAssemblyInfo.cs
-D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\obj\Debug\net8.0\EnterpriseApi.Api.MvcApplicationPartsAssemblyInfo.cache
-D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\obj\Debug\net8.0\EnterpriseApi.Api.sourcelink.json
 D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\bin\Debug\net8.0\appsettings.Development.json
 D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\bin\Debug\net8.0\appsettings.json
 D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\bin\Debug\net8.0\EnterpriseApi.Api.staticwebassets.endpoints.json
@@ -18,6 +9,7 @@ D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\bin\Debug\net8.0\EnterpriseApi
 D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\bin\Debug\net8.0\Azure.Core.dll
 D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\bin\Debug\net8.0\Azure.Identity.dll
 D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\bin\Debug\net8.0\Humanizer.dll
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
@@ -130,6 +122,15 @@ D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\bin\Debug\net8.0\EnterpriseApi
 D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\bin\Debug\net8.0\EnterpriseApi.Application.pdb
 D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\bin\Debug\net8.0\EnterpriseApi.Infrastructure.pdb
 D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\bin\Debug\net8.0\EnterpriseApi.Domain.pdb
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\obj\Debug\net8.0\EnterpriseApi.Api.csproj.AssemblyReference.cache
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\obj\Debug\net8.0\EnterpriseApi.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\obj\Debug\net8.0\EnterpriseApi.Api.AssemblyInfoInputs.cache
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\obj\Debug\net8.0\EnterpriseApi.Api.AssemblyInfo.cs
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\obj\Debug\net8.0\EnterpriseApi.Api.csproj.CoreCompileInputs.cache
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\obj\Debug\net8.0\EnterpriseApi.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\obj\Debug\net8.0\EnterpriseApi.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\obj\Debug\net8.0\EnterpriseApi.Api.sourcelink.json
 D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
 D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
