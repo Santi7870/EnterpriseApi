@@ -1,0 +1,12 @@
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Domain\bin\Debug\net8.0\EnterpriseApi.Domain.deps.json
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Domain\bin\Debug\net8.0\EnterpriseApi.Domain.dll
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Domain\bin\Debug\net8.0\EnterpriseApi.Domain.pdb
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Domain\obj\Debug\net8.0\EnterpriseApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Domain\obj\Debug\net8.0\EnterpriseApi.Domain.AssemblyInfoInputs.cache
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Domain\obj\Debug\net8.0\EnterpriseApi.Domain.AssemblyInfo.cs
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Domain\obj\Debug\net8.0\EnterpriseApi.Domain.csproj.CoreCompileInputs.cache
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Domain\obj\Debug\net8.0\EnterpriseApi.Domain.sourcelink.json
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Domain\obj\Debug\net8.0\EnterpriseApi.Domain.dll
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Domain\obj\Debug\net8.0\refint\EnterpriseApi.Domain.dll
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Domain\obj\Debug\net8.0\EnterpriseApi.Domain.pdb
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Domain\obj\Debug\net8.0\ref\EnterpriseApi.Domain.dll

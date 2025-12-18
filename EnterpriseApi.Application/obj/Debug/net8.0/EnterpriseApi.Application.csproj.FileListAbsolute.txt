@@ -1,0 +1,16 @@
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Application\bin\Debug\net8.0\EnterpriseApi.Application.deps.json
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Application\bin\Debug\net8.0\EnterpriseApi.Application.dll
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Application\bin\Debug\net8.0\EnterpriseApi.Application.pdb
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Application\bin\Debug\net8.0\EnterpriseApi.Domain.dll
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Application\bin\Debug\net8.0\EnterpriseApi.Domain.pdb
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Application\obj\Debug\net8.0\EnterpriseApi.Application.csproj.AssemblyReference.cache
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Application\obj\Debug\net8.0\EnterpriseApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Application\obj\Debug\net8.0\EnterpriseApi.Application.AssemblyInfoInputs.cache
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Application\obj\Debug\net8.0\EnterpriseApi.Application.AssemblyInfo.cs
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Application\obj\Debug\net8.0\EnterpriseApi.Application.csproj.CoreCompileInputs.cache
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Application\obj\Debug\net8.0\EnterpriseApi.Application.sourcelink.json
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Application\obj\Debug\net8.0\Enterpri.73497AD5.Up2Date
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Application\obj\Debug\net8.0\EnterpriseApi.Application.dll
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Application\obj\Debug\net8.0\refint\EnterpriseApi.Application.dll
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Application\obj\Debug\net8.0\EnterpriseApi.Application.pdb
+D:\UDLA\Proyectos\EnterpriseApi\EnterpriseApi.Application\obj\Debug\net8.0\ref\EnterpriseApi.Application.dll
