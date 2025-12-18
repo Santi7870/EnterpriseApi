@@ -6,6 +6,8 @@ EnterpriseApi es una API REST segura desarrollada en ASP.NET Core 8, que impleme
 
 El proyecto sigue una arquitectura en capas (Clean Architecture):
 
+
+
 EnterpriseApi
 │
 ├── EnterpriseApi.Api              → API / Controllers / JWT / Swagger
